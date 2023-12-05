@@ -5,6 +5,8 @@ To simulate the K8s cluster, we will be using a kind cluster.
 
 We will also be showing:
 - How to setup Vault auto-unseal with the transit engine
+- How automated snapshots are configured and manual snapshots are used
+- Show Vault HA in action
 - How to upgrade a Vault cluster using integrated storage autopilot
 
 You can use Visual Studio Code to run the notebook by:
